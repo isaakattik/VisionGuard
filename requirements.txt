@@ -1,0 +1,7 @@
+streamlit
+pillow
+tensorflow
+openai
+pytesseract
+python-dotenv
+playwright
