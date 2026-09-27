@@ -44,8 +44,8 @@ An automated **Zero-Trust AI Cybersecurity Agent** designed for real-time visual
        └───────────────────────┬───────┴────────────────────────┘
                                ▼
                ┌───────────────────────────────┐
-               │     NVIDIA NIM API Fusion     │
-               │  (Llama 3.1 70B SOC Analyst)  │
+               │     groq API Fusion     │
+               │   (openai/gpt-oss-20b)  │
                └───────────────┬───────────────┘
                                ▼
                ┌───────────────────────────────┐
